@@ -7,7 +7,6 @@ Tämä on harjoitustyön etusivu
 ![](http://www.verkkosivuapteekki.fi/WebRoot/OVA/Shops/JamsanApteekki/MediaGallery/Koira/KOIRANPENNUN_MADOTUS.jpg)
 
 ### Tiedot
-asdads
 
 * K9412
 * Versionumero X.Y.Z
