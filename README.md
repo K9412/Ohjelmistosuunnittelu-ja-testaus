@@ -11,3 +11,4 @@ Tämä on harjoitustyön etusivu
 * K9412
 * Versionumero X.Y.Z
 * [Linkki vaatimusmäärittelyyn](vaatimusmaarittely)
+
