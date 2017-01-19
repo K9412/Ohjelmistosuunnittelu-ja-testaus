@@ -1,14 +1,17 @@
-# Ohjelmistosuunnittelu-ja-testaus
+TTOS0100 Kurssin harjoitustyö HT0
 
-This is my readme.
+Tämä on harjoitustyön etusivu
 
-## Alaotsikko
 
-| Koirarotu | Kpl |
-|:----------|----:|
-| Suomenpystykorva | 30 |
-| Snautseri | 50 |
 
-### Alaotsikko
+# XXXX-palvelun vaatimusmäärittely
 
-[Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)
+
+![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
+
+
+### Tiedot
+
+* Nimimerkki
+* Versionumero X.Y.Z
+* [Linkki vaatimusmäärittelyyn](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittely.md)
