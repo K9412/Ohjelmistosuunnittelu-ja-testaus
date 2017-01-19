@@ -1,4 +1,4 @@
-TTOS0100 Kurssin harjoitustyö HT0
+﻿TTOS0100 Kurssin harjoitustyö HT0
 
 Tämä on harjoitustyön etusivu
 
@@ -7,6 +7,7 @@ Tämä on harjoitustyön etusivu
 ![](http://www.verkkosivuapteekki.fi/WebRoot/OVA/Shops/JamsanApteekki/MediaGallery/Koira/KOIRANPENNUN_MADOTUS.jpg)
 
 ### Tiedot
+asdads
 
 * K9412
 * Versionumero X.Y.Z
