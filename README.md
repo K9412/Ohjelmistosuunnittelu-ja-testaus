@@ -6,6 +6,4 @@ This is my readme.
 
 ### Alaotsikko
 
-#### Alaotsikko
-
-##### Alaotsikko
+[Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)
