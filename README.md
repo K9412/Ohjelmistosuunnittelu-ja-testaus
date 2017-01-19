@@ -4,7 +4,10 @@ This is my readme.
 
 ## Alaotsikko
 
-![](http://www.verkkosivuapteekki.fi/WebRoot/OVA/Shops/JamsanApteekki/MediaGallery/Koira/KOIRANPENNUN_MADOTUS.jpg)
+| Koirarotu | Kpl |
+|:----------|----:|
+| Suomenpystykorva | 30 |
+| Snautseri | 50 |
 
 ### Alaotsikko
 
